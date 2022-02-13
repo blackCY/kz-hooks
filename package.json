@@ -1,0 +1,20 @@
+{
+  "name": "kz-hooks",
+  "version": "1.0.0",
+  "description": "The kuaizhan custom hooks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackCY/kz-hooks.git"
+  },
+  "keywords": [],
+  "author": "blackCY <dllnacy@163.com> (https://github.com/blackCY)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blackCY/kz-hooks/issues"
+  },
+  "homepage": "https://github.com/blackCY/kz-hooks#readme"
+}
